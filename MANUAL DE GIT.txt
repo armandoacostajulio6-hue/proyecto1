@@ -13,3 +13,5 @@ git branch -M main
 git remote add origin https://github.com/armandoacostajulio6-hue/proyecto1.git
 
 git push -u origin main
+
+git remote -v
