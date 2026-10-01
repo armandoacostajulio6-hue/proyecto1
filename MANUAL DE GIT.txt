@@ -1,0 +1,15 @@
+git init 
+
+git add .
+
+git status -s
+
+git commit -m "este es el archivo base"
+
+git config --global credential.helper manager
+
+git branch -M main
+
+git remote add origin https://github.com/armandoacostajulio6-hue/proyecto1.git
+
+git push -u origin main
